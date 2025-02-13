@@ -11,6 +11,7 @@ Task Management API é uma aplicação backend desenvolvida em **Java** utilizan
 - **Spring Data JPA**
 - **Spring Security**
 - **JWT (JSON Web Token)**
+- **Apache Kafka**
 - **Hibernate**
 - **Maven** 
 - **Docker** 
